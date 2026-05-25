@@ -270,25 +270,16 @@ assets/images/
 Example:
 
 ```txt
-space.jpg
 forest.png
 ```
 
-2. Open the Settings popup.
-
-3. Find:
-
+2. Rename it to bg.png
+   
 ```txt
-Change Background Image
+bg.png
 ```
 
-4. Enter the exact filename.
-
-5. Press:
-
-```txt
-Apply
-```
+3. Save:
 
 ---
 
@@ -303,12 +294,7 @@ Focus search input.
 ```txt
 Esc
 ```
-
-Close popups.
-
-```txt
-Ctrl + K
-```
+`
 
 Open command palette.
 
