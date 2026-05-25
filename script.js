@@ -318,7 +318,7 @@ const defaultShortcuts = [
     url: "https://facebook.com",
     append: true,
     searchLink: "https://www.facebook.com/search/top?q=",
-    searchAppend: true,
+    searchAppend: false,
   },
   {
     title: "Instagram",
@@ -353,7 +353,7 @@ const defaultShortcuts = [
     url: "https://cineby.app",
     append: true,
     searchLink: "https://www.cineby.app/search?q=",
-    searchAppend: true,
+    searchAppend: false,
   },
   {
     title: "GitHub",
